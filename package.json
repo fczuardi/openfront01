@@ -1,0 +1,19 @@
+{
+  "name": "openfront01",
+  "version": "1.0.0",
+  "description": "palestra em sao carlos 05 de Março 2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fczuardi/openfront01.git"
+  },
+  "author": "Fabricio C Zuardi",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/fczuardi/openfront01/issues"
+  },
+  "homepage": "https://github.com/fczuardi/openfront01#readme"
+}
