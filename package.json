@@ -4,7 +4,8 @@
   "description": "palestra em sao carlos 05 de Março 2020",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/fczuardi/openfront01/issues"
   },
-  "homepage": "https://github.com/fczuardi/openfront01#readme"
+  "homepage": "https://github.com/fczuardi/openfront01#readme",
+  "devDependencies": {
+    "gatsby-source-filesystem": "^2.1.48",
+    "mdx-deck": "^4.1.0"
+  }
 }
